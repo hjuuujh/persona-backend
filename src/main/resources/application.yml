@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri : mongodb:///persona?authSource=admin&authMechanism=SCRAM-SHA-1
+      uri : mongodb://feedback:1234@43.200.82.37:27017/persona?authSource=admin&authMechanism=SCRAM-SHA-1
